@@ -18,12 +18,13 @@ Welcome to the "I Can See Your Voice" project! This project is designed to class
 
 ## Model
 
-The voice classification model in this project is trained using machine learning techniques. The model is capable of distinguishing between real and AI-generated voices based on features extracted from audio files.
+The voice classification model in this project is a RandomForestClassifier, trained using machine learning techniques. The model is capable of distinguishing between real and AI-generated voices based on features extracted from audio files.
 
 - **Technology:** Python
 - **Libraries:**
   - PyDub, Librosa, and Scikit-learn for audio processing.
-  - Deep learning frameworks (e.g., TensorFlow, PyTorch) for training neural networks.
+  - RandomForestClassifier for voice classification.
+  - Joblib for model serialization.
 
 ## Installation
 
@@ -62,6 +63,12 @@ The voice classification model in this project is trained using machine learning
         ```bash
         python app.py
         ```
+
+## Future Plans
+
+- **Mobile Support:** We plan to enhance the user experience by adding mobile support. Users will be able to use the application on their mobile devices for on-the-go voice analysis.
+
+- **Notification System:** We aim to implement a notification system that alerts users when the system detects a potential deep fake voice. This feature will provide real-time feedback and improve the overall user experience.
 
 ## Contributing
 
