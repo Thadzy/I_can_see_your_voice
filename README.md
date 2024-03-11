@@ -4,7 +4,7 @@
 
 Welcome to the "I Can See Your Voice" project! This project is designed to classify voices as either real or fake, using AI-based deep fake detection techniques.
 
-![Project Image](https://media.discordapp.net/attachments/821655672536956942/1185598972321079346/bf9f9dbd0e0c8564.png?ex=65903216&is=657dbd16&hm=8a73ff939d0291b9e44df5c951db93b366b4a7a0e2a09134366b5747f8ae954a&=&format=webp&quality=lossless&width=796&height=447)
+![Project Image](https://media.discordapp.net/attachments/1185432346682462210/1185743288838398073/image.png?ex=65ff767e&is=65ed017e&hm=c4e67720415f1c695844313f4702c14631fabae7eae3984a726a7bb3779196f9&=&format=webp&quality=lossless&width=687&height=386)
 
 ## Overview
 
